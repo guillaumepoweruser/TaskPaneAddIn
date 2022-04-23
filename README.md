@@ -22,9 +22,13 @@ When opening PowerPoint in the second monitor the items of the combobox are not 
 
 ## Bug
 
+The combobox items cannot be selected
+
 https://user-images.githubusercontent.com/40002422/164913568-b1ce38b0-c067-47bd-9742-0349078f4401.mp4
 
 
 ## Expected behavior
+
+The combobox items can be selected normally
 
 https://user-images.githubusercontent.com/40002422/164913571-b5b7ec79-8fc8-4d75-b07b-48ea1f84e0fd.mp4

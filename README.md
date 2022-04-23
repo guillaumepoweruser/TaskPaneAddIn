@@ -17,7 +17,7 @@ I'm using two monitors:
   - Resolution: 1920*1080
   - Size of text, apps, and other items: 100%
 
-When opening PowerPoint in the second monitor the items of the combobox are not clickable
+When opening PowerPoint directly from the second monitor the items of the combobox are not clickable
 
 
 ## Bug

@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-- Windows
+- Windows OS
 - Microsoft Office PowerPoint
 
 ## Overview
